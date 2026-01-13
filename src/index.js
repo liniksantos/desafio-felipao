@@ -1,1 +1,2 @@
-console.log("sjfgfgnf")
+let nome = "linik"
+console.log(nome)
